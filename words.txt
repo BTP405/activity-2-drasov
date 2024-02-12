@@ -1,0 +1,4 @@
+Hello world! This is a sample text file.
+It contains some words that will be used for testing.
+Feel free to add more lines and words to see how the function works.
+Word count, line numbers, and case-insensitivity are considered in the output.
